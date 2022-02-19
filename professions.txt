@@ -211,6 +211,7 @@ Mechanical engineer
 Media assistant
 Assistant media scheduler
 Medical student
+Medical Coder
 Medicine management technician
 Emergency medical technician
 Member of Youth Parliament
@@ -255,6 +256,7 @@ Festival PR director
 Festival programme director
 Paper maker
 Paralegal apprentice
+Paralegal
 Paramedic
 Community specialist paramedic
 HART paramedic
